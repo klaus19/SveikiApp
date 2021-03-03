@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aciu</string>
+
+    <string name="blankEditText">You must fill out all fields</string>
+    <string name="auth_failed">Wrong password or email!</string>
+    <string name="invalid_password">Your password needs to have at least 6 characters</string>
+    <string name="invalid_email">Email not valid!</string>
+    <string name="account_creation_fail"> Failed to create an account with this email. Try again later!</string>
+    <string name="account_creation_success"> Your account has been successfully created!\n Please check your email in order to confirm your account.</string>
+    <string name="email_not_verified"> You account is not verified.\n Check your email to verify it!</string>
+    <string name="google_sign_up">Sign up with Google</string>
+   <!-- <string name="default_web_client_id">706038665710-8j9pab0i3qr3uc4k6pgipuf5rn43ruvl.apps.googleusercontent.com</string>!-->
+</resources>

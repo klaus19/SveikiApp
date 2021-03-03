@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706038665710",
+    "project_id": "lithuanianduolin-1610425153982",
+    "storage_bucket": "lithuanianduolin-1610425153982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706038665710:android:ef636cdcdfc89912d47eff",
+        "android_client_info": {
+          "package_name": "com.akash.lithuanianduolingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706038665710-8j9pab0i3qr3uc4k6pgipuf5rn43ruvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZ3TYKIepm3WpMhKgEabv2fqOf_p0TLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706038665710-8j9pab0i3qr3uc4k6pgipuf5rn43ruvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

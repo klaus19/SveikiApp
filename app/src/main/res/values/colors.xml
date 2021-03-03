@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+<!--Text-->
+    <color name="white_text">#ffebee</color>
+
+    <color name="default_bar_background_color">#cfd8dc</color>
+    <!--Button-->
+    <color name="blue_pair">#ec407a</color>
+    <color name="grey_button">#e1e1e1</color>
+    <!--Blue Background-->
+    <color name="blue_background">#9c64a6
+
+    </color>
+    <color name="violet">#ab47bc</color>
+    <color name="default_light_grey_bg">#f5f5f5</color>
+    <color name="raddish">#883997</color>
+    <color name="greycolor">#62757f</color>
+    <color name="orange">#ff5722</color>
+</resources>
