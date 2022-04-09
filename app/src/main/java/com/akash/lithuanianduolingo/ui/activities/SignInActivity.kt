@@ -54,6 +54,8 @@ class SignInActivity: AppCompatActivity() {
         }
     }
 
+
+    //Signing on one Tap Google Sign In
     private fun signIn() {
         val intent = mGoogleSignInClient!!.signInIntent
         startActivityForResult(intent, RC_SIGN_IN)
